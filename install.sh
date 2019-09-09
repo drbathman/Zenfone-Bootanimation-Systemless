@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Zenfone Bootanimation    "
+  ui_print "     Asus Bootanimation    "
   ui_print "*******************************"
 }
 
